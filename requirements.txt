@@ -1,5 +1,2 @@
-ipywidgets
 voila
-ipython
-notebook
-jupyter-client
+ipywidgets
