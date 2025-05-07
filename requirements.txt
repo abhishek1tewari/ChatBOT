@@ -1,0 +1,6 @@
+ipywidgets==7.6.5
+voila==0.2.10
+ipython==7.31.0
+jupyter-client==7.1.2
+notebook==6.4.5
+
